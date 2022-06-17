@@ -1,7 +1,8 @@
 # P7
 OC P7 
-Je déteste gitbash - jamais de la vie
 
-interface pourrie
+interface pourrie (confirmed)
 
 NON. Je ne veux plus jamais revoir ce truc.
+
+AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
